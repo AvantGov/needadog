@@ -1,0 +1,13 @@
+.HeaderContainer {
+    border: 2px solid black;
+    height: 40%;
+    width: 100%;
+}
+
+.HeaderContainer__logoframe {
+    height: 100%;
+    width: 30%;
+    border: 1px solid red;
+};
+
+
